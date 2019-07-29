@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ServiceX</string>
+    <string name="lblEmail">Email</string>
+    <string name="lblPassword">Password</string>
+    <string name="lblForgot">Forgot Password ?</string>
+    <string name="lblTxtDesign">Lorem Itsup TheProgrammer</string>
+
+
+    <string-array name="names_client">
+        <item quantity="1">TheProgramer</item>
+        <item quantity="2">Faleu</item>
+        <item quantity="1">Darlin toto</item>
+        <item quantity="1">Delegué</item>
+
+    </string-array>
+</resources>
